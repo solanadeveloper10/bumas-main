@@ -15412,7 +15412,7 @@ const H4 = "/assets/tokenmos-img-CGrEXnA0.png",
 function b4() {
   const A = [
     { title: "Token Name", subtitle: " Bumas the Spirit" },
-    { title: "Symbol", subtitle: "$ BUMAS" },
+    { title: "Symbol", subtitle: "$BUMAS" },
     { title: "Total Supply", subtitle: " 1B" },
     { title: "Tax", subtitle: " 0%" },
   ];
