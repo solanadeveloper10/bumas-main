@@ -15373,7 +15373,7 @@ function I4(A) {
 }
 function x4() {
   const A =
-      "9yvpQZfqM91VJG8T1DQFctrAgDkoKUsEMtzRWwRpump",
+      " 9yvpQZfqM91VJG8T1DQFctrAgDkoKUsEMtzRWwRpump",
     [e, t] = N.useState(!1),
     r = () => {
       navigator.clipboard.writeText(A),
@@ -15411,10 +15411,10 @@ const H4 = "/assets/tokenmos-img-CGrEXnA0.png",
   Wf = "/assets/about-tp-shap-D3UDAV7U.png";
 function b4() {
   const A = [
-    { title: "Token Name", subtitle: "Bumas the Spirit" },
-    { title: "Symbol", subtitle: "$BUMAS" },
-    { title: "Total Supply", subtitle: "1B" },
-    { title: "Tax", subtitle: "0%" },
+    { title: "Token Name", subtitle: " Bumas the Spirit" },
+    { title: "Symbol", subtitle: "$ BUMAS" },
+    { title: "Total Supply", subtitle: " 1B" },
+    { title: "Tax", subtitle: " 0%" },
   ];
   return Q.jsxs("div", {
     className: "tokenmos  relative z-[1] ",

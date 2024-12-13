@@ -1077,8 +1077,8 @@ video {
 }
 
 .text-lg {
-    font-size: 1rem;
-    line-height: 1.5rem
+    font-size: 1.125rem;
+    line-height: 1.75rem
 }
 
 .text-xl {
@@ -3043,8 +3043,8 @@ input:checked+label {
         padding-right: 15%
     }
 
-    .\32xl\:text-\[38px\] {
-        font-size: 38px
+    .\32xl\:text-\[1px\] {
+        font-size: 1px
     }
 }
 
