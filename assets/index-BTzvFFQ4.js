@@ -15286,7 +15286,7 @@ function F4() {
                           'text-black text-[18px] md:text-[20px] lg:md:text-[20px] xl:md:text-[30px] leading-[150%] capitalize font-["Poppins"] max-w-[867px] w-full pt-5 text-center lg:text-left',
                       dangerouslySetInnerHTML: {
                         __html:
-                          "$BUMAS is the bullish Christmas Spirit the Solana! Part spirit, part bull, you'll see him popping up all over the place on his Xmas mission! Gains for all. <br> Join in the fun with the community, the good vibes and the be bullish  $BUMAS!",
+                          "$BUMAS is the bullish Christmas Spirit the Solana! Part spirit, part bull, you'll see him popping up all over the place on his Xmas mission! Gains for all. <br> Join in the fun with the community, the good vibes and be bullish with $BUMAS!",
                       },
                     }),
                   ],
