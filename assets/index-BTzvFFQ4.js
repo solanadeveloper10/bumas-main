@@ -15645,7 +15645,7 @@ function j4() {
                 className:
                   "text-black mb-6 md:mb-8 lg:mb-12 mt-5 md:mt-7 lg:mt-10 text-xl md:text-2xl lg:text-3xl font-Poppins !leading-normal md:px-[5%] capitalize",
                 children:
-                  "Suibull: Harness the power of the bull, rise to the top of the meme coin world! Unite communities, build the future, and stay strong!",
+                  "BUMAS: Harness the power of the bull, rise to the top of the meme coin world! Unite communities, build the future, and stay strong!",
               }),
               Q.jsx(DB, { className: "justify-center" }),
             ],
