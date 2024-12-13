@@ -15225,7 +15225,7 @@ function U4({ className: A }) {
     {
       name: "discoard",
       icon: C4,
-      url: "https://www.dextools.io/app/en/solana/pair-explorer/9yvpQZfqM91VJG8T1DQFctrAgDkoKUsEMtzRWwRpump",
+      url: "https://www.dextools.io/app/en/solana/pair-explorer/HJ4eZL6q14ivNd1VYPxKsnHh1cVwEnQ94nNm5spgtCqc",
     },
     { name: "telegram", icon: Q4, url: "https://t.me/BumasCoin" },
     { name: "twitter", icon: y4, url: "https://x.com/BumasCoin" },
